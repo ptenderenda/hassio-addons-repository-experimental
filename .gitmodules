@@ -1,0 +1,3 @@
+[submodule "addon-traccar"]
+	path = addon-traccar
+	url = https://github.com/ptenderenda/addon-traccar
